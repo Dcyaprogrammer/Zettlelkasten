@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "f25ec3be46fb7666",
+    "type": "split",
+    "children": [
+      {
+        "id": "23d1982514257966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d73f86af1a90e6d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6414b202ab26c51",
+    "type": "split",
+    "children": [
+      {
+        "id": "23bd5433a63de6e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70fe0695590682eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ea58e896cfa1fc9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8e94a341b1530ac7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64a29025e3da55b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "da2cfeb82f100eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6b9bdd4d11418dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML/Stein Variational Gradient Decent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Stein Variational Gradient Decent 的反向链接列表"
+            }
+          },
+          {
+            "id": "6320c8c62e1d6b82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML/Stein Variational Gradient Decent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Stein Variational Gradient Decent 的出链列表"
+            }
+          },
+          {
+            "id": "f41dfac0b472e05a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3867f4b51779f4e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e0be5cd83572e222",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML/Stein Variational Gradient Decent.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Stein Variational Gradient Decent 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "70fe0695590682eb",
+  "lastOpenFiles": [
+    "Formulas/截屏2026-02-11 22.41.06.png",
+    "Formulas/截屏2026-02-11 22.39.36.png",
+    "Formulas/截屏2026-02-11 22.38.16.png",
+    "Formulas/截屏2026-02-11 22.37.52.png",
+    "ML&DL/Score-based Diffusion.md",
+    "Formulas/截屏2026-02-11 22.42.24.png",
+    "ML&DL/DDPM.md",
+    "ML&DL/Flow-Based Model.md",
+    "Wiener process.md",
+    "Mathematics/Ito's formula.md",
+    "Formulas/截屏2026-02-11 21.40.40.png",
+    "ML&DL/Variational Inference.md",
+    "Formulas/截屏2026-02-11 21.10.53.png",
+    "Formulas/截屏2026-02-11 15.52.33.png",
+    "Mathematics/Langevin Dynamics.md",
+    "Mathematics/Lebesgue Integral.md",
+    "Mathematics/Tweedie's formula.md",
+    "Mathematics/Langevin Algorithm.md",
+    "Formulas/截屏2026-02-11 15.51.04.png",
+    "ML&DL/Denoising-Autoencoders.md",
+    "ML&DL/VAE.md",
+    "Mathematics/Tweedie's.md",
+    "ML&DL/Amortized SVDG.md",
+    "Formulas/截屏2026-02-11 00.05.05.png",
+    "ML&DL/Stein Variational Gradient Decent.md",
+    "RL/Proximal Policy Optimization.md",
+    "RL/Soft Actor-Critic.md",
+    "Write Mathematics in Markdown.md",
+    "Mathematics/Evaluation Functional.md",
+    "Mathematics/Cauchy Sequence.md",
+    "RL/Contrastive Learning as Goal-Conditioned RL.md",
+    "RL/Decoupled Q-chunking.md",
+    "ML&DL/Contrastive Learning.md",
+    "ML&DL/Generative Modeling via Drifting.md",
+    "ML&DL/Auto-Encoders.md",
+    "Notes & Slides",
+    "Notes & Slides/RKHSnotes.pdf",
+    "RL",
+    "Graphs",
+    "Mathematics",
+    "Formulas",
+    "Paper/Stein Variational GD.pdf",
+    "Paper",
+    "ML/未命名.canvas",
+    "未命名.base",
+    "Template",
+    "未命名.canvas"
+  ]
+}
